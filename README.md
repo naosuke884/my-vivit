@@ -1,1 +1,1 @@
-# my-vivit-with-scenic
+# my-vivit
