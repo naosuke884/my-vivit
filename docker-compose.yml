@@ -3,7 +3,7 @@ services:
   web:
     build: . 
     volumes:
-      - ./src:/home/jovyan/work
+      - ./src:/tf
     ports:
       - "8888:8888"
     tty: true
